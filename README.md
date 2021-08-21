@@ -1,3 +1,4 @@
+![alt text](https://github.com/debanjan-exe/eggcellent/blob/master/mockups/eggcellent-home.jpg?raw=true)
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
